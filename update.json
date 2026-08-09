@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive.apk",
-  "notes": "Actualizaciones obligatorias desde el repositorio público de DeportInLive."
+  "notes": "Los partidos de equipos españoles se muestran siempre, aunque estén fuera de la ventana de ±3 horas."
 }
