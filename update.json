@@ -1,5 +1,5 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive.apk",
-  "notes": "Los partidos de equipos españoles se muestran siempre, aunque estén fuera de la ventana de ±3 horas."
+  "notes": "Mejora la detección de partidos españoles, los coloca primero y renombra Directo como + Deportes."
 }
