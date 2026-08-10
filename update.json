@@ -1,5 +1,5 @@
 {
-  "version": "0.2.10",
-  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.2.10.apk",
-  "notes": "Corrige el selector del reproductor para mostrar y pulsar únicamente fuentes de vídeo."
+  "version": "0.2.11",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.2.11.apk",
+  "notes": "Sincroniza el toque de reproducción con la carga real del iframe y cancela los reintentos cuando comienza el vídeo."
 }
