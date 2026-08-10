@@ -1,5 +1,5 @@
 {
-  "version": "0.2.9",
-  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.2.9.apk",
-  "notes": "Mejora la navegación en TV, añade búsqueda, favoritos, cuenta atrás, selector de canales y caché de logos."
+  "version": "0.2.10",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.2.10.apk",
+  "notes": "Corrige el selector del reproductor para mostrar y pulsar únicamente fuentes de vídeo."
 }
