@@ -1,5 +1,5 @@
 {
-  "version": "0.2.8",
-  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.2.8.apk",
-  "notes": "Añade un respaldo automático para la programación y mejora los registros de diagnóstico."
+  "version": "0.2.9",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.2.9.apk",
+  "notes": "Mejora la navegación en TV, añade búsqueda, favoritos, cuenta atrás, selector de canales y caché de logos."
 }
