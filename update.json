@@ -1,5 +1,5 @@
 {
-  "version": "0.2.7",
-  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.2.7.apk",
-  "notes": "Simplifica los mensajes de error y elimina referencias técnicas de la interfaz."
+  "version": "0.2.8",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.2.8.apk",
+  "notes": "Añade un respaldo automático para la programación y mejora los registros de diagnóstico."
 }
