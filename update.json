@@ -1,5 +1,5 @@
 {
-  "version": "0.2.6",
+  "version": "0.2.7",
   "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive.apk",
-  "notes": "Elimina el botón Ver: ahora toda la tarjeta abre directamente el evento."
+  "notes": "Simplifica los mensajes de error y elimina referencias técnicas de la interfaz."
 }
