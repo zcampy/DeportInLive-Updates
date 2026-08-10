@@ -1,5 +1,5 @@
 {
-  "version": "0.2.11",
-  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.2.11.apk",
-  "notes": "Sincroniza el toque de reproducción con la carga real del iframe y cancela los reintentos cuando comienza el vídeo."
+  "version": "0.2.12",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.2.12.apk",
+  "notes": "Restaura la página original del evento para iniciar manualmente el reproductor con su propio botón Play."
 }
