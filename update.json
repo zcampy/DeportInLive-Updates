@@ -1,5 +1,5 @@
 {
-  "version": "0.2.5",
+  "version": "0.2.6",
   "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive.apk",
-  "notes": "Mejora la resistencia ante cambios de enlaces, firma, dominios, calendario y reproductor."
+  "notes": "Elimina el botón Ver: ahora toda la tarjeta abre directamente el evento."
 }
