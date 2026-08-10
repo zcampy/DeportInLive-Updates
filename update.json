@@ -1,5 +1,5 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
   "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive.apk",
-  "notes": "Mejora la detección de partidos españoles, los coloca primero y renombra Directo como + Deportes."
+  "notes": "Añade la pestaña Motor, renombra Partidos como Fútbol y mejora las pantallas sin eventos."
 }
