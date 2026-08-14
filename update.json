@@ -1,5 +1,5 @@
 {
-  "version": "0.3.2",
-  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.3.2.apk",
-  "notes": "Carga primero el dominio vigente publicado y muestra una lista provisional mientras se completa el calendario. Evita el respaldo que devolvía HTTP 499."
+  "version": "0.3.3",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.3.3.apk",
+  "notes": "Corrige el control del reproductor con el mando de TV antes y durante el fullscreen, y elimina partidos repetidos aunque cambien su enlace o identificador."
 }
