@@ -1,5 +1,5 @@
 {
-  "version": "0.2.12",
-  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.2.12.apk",
-  "notes": "Restaura la página original del evento para iniciar manualmente el reproductor con su propio botón Play."
+  "version": "0.3.0",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.3.0.apk",
+  "notes": "Nueva navegación de Fútbol, Motor y + Deportes; búsqueda, favoritos y mejoras para TV. El reproductor abre automáticamente en pantalla completa horizontal y restaura la app al salir."
 }
