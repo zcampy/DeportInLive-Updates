@@ -1,5 +1,5 @@
 {
-  "version": "0.3.1",
-  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.3.1.apk",
-  "notes": "Corrige la carga del listado en Android TV evitando redirecciones lentas y manteniendo activa la lectura del calendario durante la navegación."
+  "version": "0.3.2",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.3.2.apk",
+  "notes": "Carga primero el dominio vigente publicado y muestra una lista provisional mientras se completa el calendario. Evita el respaldo que devolvía HTTP 499."
 }
