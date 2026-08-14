@@ -1,5 +1,5 @@
 {
-  "version": "0.3.3",
-  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.3.3.apk",
-  "notes": "Corrige el control del reproductor con el mando de TV antes y durante el fullscreen, y elimina partidos repetidos aunque cambien su enlace o identificador."
+  "version": "0.3.4",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.3.4.apk",
+  "notes": "Restaura el fullscreen automático al pulsar Play, tanto en pantalla táctil como con el mando de TV, y añade compatibilidad con reproductores HLS y WebRTC."
 }
