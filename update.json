@@ -1,5 +1,5 @@
 {
-  "version": "0.3.5",
-  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-0.3.5.apk",
-  "notes": "Corrige el desfase de 2 horas con la web del proveedor (timezone Europe/Madrid) y permite activar la pantalla completa desde el botón Play inferior izquierdo del reproductor."
+  "version": "4.0",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/DeportInLive-Updates/main/DeportInLive-4.0.apk",
+  "notes": "Corrige el desfase de 2 horas con la web del proveedor (timezone Europe/Madrid), permite activar la pantalla completa desde el botón Play inferior izquierdo del reproductor, descarta los partidos placeholder/fake del proveedor (Atlético Madrid vs Málaga en La Liga y similares), oculta los partidos de Telegram hasta que llegue la programación real del WebView, y renombra las pestañas Baloncesto a Basket y + Deportes a +Dep."
 }
